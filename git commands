@@ -1,0 +1,5 @@
+git clone repo url
+git add .
+git commit -m "initial commit message"
+git push origin main
+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
